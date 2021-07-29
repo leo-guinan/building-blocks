@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-buildingblocks-dev-120615-authRole",
+      "UnauthRoleArn": "arn:aws:iam::702658285050:role/amplify-buildingblocks-dev-120615-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::702658285050:role/amplify-buildingblocks-dev-120615-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-buildingblocks-dev-120615-deployment",
+      "UnauthRoleName": "amplify-buildingblocks-dev-120615-unauthRole",
+      "StackName": "amplify-buildingblocks-dev-120615",
+      "StackId": "arn:aws:cloudformation:us-east-2:702658285050:stack/amplify-buildingblocks-dev-120615/e92b3920-f086-11eb-b2a4-0a4bb640a99a",
+      "AmplifyAppId": "d1mjo3dbkb0ev5"
+    },
+    "categories": {
+      "auth": {
+        "buildingblockscb554d10": {}
+      }
+    }
+  }
+}
